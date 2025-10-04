@@ -19,12 +19,12 @@
 ## 🛠 Установка
 
 ```bash
-# Установка зависимостей
-pip install pyserial pandas matplotlib
-
 # Клонирование репозитория
 git clone https://github.com/nearbad/rf60x-sp.git
 cd rf60x-sp
+
+# Установка зависимостей
+pip install -r requirements.txt
 
 # Использование
 python rf60x_logger.py
