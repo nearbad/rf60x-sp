@@ -1,5 +1,5 @@
 # Virtual environment
-rf60x_env/
+venv/
 .env
 
 # Python cache
